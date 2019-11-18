@@ -1,0 +1,23 @@
+{
+  "name": "sms-server",
+  "version": "1.0.0",
+  "description": "This is a try out for an sms service by Twilio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hannesde4/smsService.git"
+  },
+  "keywords": [
+    "sms"
+  ],
+  "author": "Hannes De Baere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hannesde4/smsService/issues"
+  },
+  "homepage": "https://github.com/Hannesde4/smsService#readme"
+}
