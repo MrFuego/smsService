@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/Hannesde4/smsService#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "twilio": "^3.37.1"
   }
 }
